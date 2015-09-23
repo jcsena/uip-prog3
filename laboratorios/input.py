@@ -1,3 +1,6 @@
+#
+# Copyright (c) 2015 by Julio Seña. All Rights Reserved.
+#
 
 '''
 calcular el area y perimetro de un rectangulo dada la base y la altura
