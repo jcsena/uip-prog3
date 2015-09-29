@@ -9,17 +9,17 @@ junto con su indice. Los numeros triangulares se originan
 de los numeros naturales desde 1 hasta n. Ejempo.
 '''
 
+# Se valida que sea un numero
 try:
     numero = int(input("Por favor escriba un numero: "))
 except ValueError:
-    print("numero invalido")
+    print("Por favor debe ser un numero Natural")
     numero = 0
-
-print(numero)
 
 index = 0
 result = 0
 
+# Se evalua que sea un numero natural
 if numero < 0:
     print("El numero no es natural")
 else:
@@ -27,4 +27,5 @@ else:
         result += index
         index += 1
 
+# Se realiza la impresion por pantalla
     print(str(numero) + " - " + str(result))
