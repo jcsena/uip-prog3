@@ -9,3 +9,7 @@ Las tareas realizadas durante el curso de Programación de Computadoras III - UI
 
 3. ```Clase #4 (2015-09-28 - 2015-10-05) ``` Hacer una aplicación con los [requerimientos](https://github.com/jcsena/uip-prog3/blob/master/tareas/3/tarea.txt) dados.
 ```Solucion: ``` Se realiza la creacion del [programa](https://github.com/jcsena/uip-prog3/blob/master/tareas/3/tarea.py).
+
+4. ```Clase #4 (2015-09-28 - 2015-10-05) ``` Hacer una aplicación y una investigacion con los [requerimientos](https://github.com/jcsena/uip-prog3/blob/master/tareas/3/tarea.txt) dados.```Solucion: ```
+    *  Se realiza la creacion del [programa](https://github.com/jcsena/uip-prog3/blob/master/tareas/4/tarea.py).
+    * Se realiza la [investigacion](https://github.com/jcsena/uip-prog3/blob/master/tareas/4/investigacion.txt)
