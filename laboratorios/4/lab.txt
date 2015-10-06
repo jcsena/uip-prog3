@@ -1,0 +1,3 @@
+dado un itervalo de tiempo en segundos, calcular los segundos
+restantes que corresponden para convertirse exactamente en minutos
+este programa debe funcionar debe funcionar para 5 oportunidades
