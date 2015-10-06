@@ -1,0 +1,14 @@
+Los módulos son objetos, y todos los módulos tienen un atributo
+__name__ incorporado. El atributo __name__ de un módulo depende
+de cómo se utiliza el módulo. Si se importa con import, __name__
+es el nombre del fichero del módulo, sin la ruta al directorio
+ni la extensión. Pero también puede ejecutarse un módulo
+directamente como programa independiente, y en este caso __name__
+adquiere un valor especial, __main__.
+
+En conclusion:
+Se utiliza la validacion __main__ para cuando se ejecute un modulo
+directamente y los que anidado en el if se ejecutara, cuando el modulo
+es llamado con import de otro archivo python __name__ enstrara como el
+nombre del import por lo tanto no ejecuta el if con validacion de __main__
+ 
