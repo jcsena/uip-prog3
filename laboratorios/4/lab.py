@@ -21,7 +21,7 @@ while i < numRep:
     i += 1
 
     # Se solicita el numero de segundos por pantalla
-    x = input("Escriba en numero de segundos para el  "+str(i)+" caso : ")
+    x = input("Escriba en numero de segundos para el  " + str(i) + " caso : ")
 
     # Se agrega  la lista en numero registrado
     rep.append(float(x))
