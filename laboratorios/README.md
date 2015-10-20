@@ -7,3 +7,5 @@ Los lobaratorios realizados durante el curso de Programación de Computadoras II
 ```Solucion: ``` Se realiza la creacion del [programa](https://github.com/jcsena/uip-prog3/blob/master/laboratorios/3/lab.py).
 4. ```Clase #4 (2015-10-05 - 2015-10-12) ``` Hacer una aplicación con los [requerimientos](https://github.com/jcsena/uip-prog3/blob/master/laboratorios/4/lab.txt) dados.
 ```Solucion: ``` Se realiza la creacion del [programa](https://github.com/jcsena/uip-prog3/blob/master/laboratorios/4/lab.py).
+5. ```Clase #4 (2015-10-12 - 2015-10-19) ``` Hacer una aplicación con los [requerimientos](https://github.com/jcsena/uip-prog3/blob/master/laboratorios/5/lab.txt) dados.
+```Solucion: ``` Se realiza la creacion del [programa](https://github.com/jcsena/uip-prog3/blob/master/laboratorios/5/lab.py).
