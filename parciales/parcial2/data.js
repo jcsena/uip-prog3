@@ -1,6 +1,6 @@
 
 
-var types = ['A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K'];
+var types = ['A','B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K','L'];
 var zonas = ['1','2','3', '4', '5', '6', '7'];
 
 types.forEach(function (item) {
