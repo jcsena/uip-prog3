@@ -1,7 +1,3 @@
-#
-# Copyright (c) 2015 by Julio Seña. All Rights Reserved.
-#
-
 import json
 from kivy.app import App
 from kivy.uix.screenmanager import ScreenManager, Screen, FadeTransition
