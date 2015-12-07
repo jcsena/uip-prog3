@@ -1,19 +1,19 @@
 [app]
 
 # (str) Title of your application
-title = My Application
+title = Taxi
 
 # (str) Package name
-package.name = myapp
+package.name = taxi
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.test
+package.domain = org.taxi.panama
 
 # (str) Source code where the main.py live
 source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
-source.include_exts = py,png,jpg,kv,atlas
+source.include_exts = py,png,jpg,kv,atlas,json
 
 # (list) Source files to exclude (let empty to not exclude anything)
 #source.exclude_exts = spec
@@ -29,7 +29,7 @@ version.regex = __version__ = ['"](.*)['"]
 version.filename = %(source.dir)s/main.py
 
 # (str) Application versioning (method 2)
-# version = 1.2.0
+# version = 0.0.1
 
 # (list) Application requirements
 # comma seperated e.g. requirements = sqlite3,kivy
@@ -49,7 +49,7 @@ requirements = kivy
 #icon.filename = %(source.dir)s/data/icon.png
 
 # (str) Supported orientation (one of landscape, portrait or all)
-orientation = landscape
+orientation = portrait
 
 # (bool) Indicate if the application should be fullscreen or not
 fullscreen = 1
@@ -66,13 +66,13 @@ fullscreen = 1
 #android.api = 19
 
 # (int) Minimum API required
-#android.minapi = 9
+#android.minapi = 19
 
 # (int) Android SDK version to use
-#android.sdk = 20
+#android.sdk = 21
 
 # (str) Android NDK version to use
-#android.ndk = 9c
+#android.ndk = 10e
 
 # (bool) Use --private data storage (True) or --dir public storage (False)
 #android.private_storage = True

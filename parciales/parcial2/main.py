@@ -89,3 +89,5 @@ class MainApp(App):
 
 if __name__ == '__main__':
     MainApp().run()
+
+__version__ = "0.0.1"
